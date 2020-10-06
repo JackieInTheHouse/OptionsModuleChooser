@@ -1,0 +1,30 @@
+Name : Jackie Zheng
+P Number : P17215344
+Email : xzheng0203@hotmail.com
+Date : 2020-10-06
+Course : Computer Science
+
+Selected Modules: 
+============
+Module Code: IMAT3451, Module name: Computing Project
+Credits: 30, Mandatory on your course? Yes, Delivery: YEAR_LONG
+
+Module Code: IMAT3423, Module name: Systems Building: Methods
+Credits: 15, Mandatory on your course? Yes, Delivery: TERM_1
+
+Module Code: CTEC3605, Module name: Multi-service Networks 1
+Credits: 15, Mandatory on your course? No, Delivery: TERM_1
+
+Module Code: CTEC3906, Module name: Interaction Design
+Credits: 15, Mandatory on your course? No, Delivery: TERM_1
+
+Module Code: IMAT3104, Module name: Database Management and Programming
+Credits: 15, Mandatory on your course? No, Delivery: TERM_2
+
+Module Code: CTEC3904, Module name: Functional Software Development
+Credits: 15, Mandatory on your course? No, Delivery: TERM_2
+
+Module Code: CTEC3905, Module name: Front-End Web Development
+Credits: 15, Mandatory on your course? No, Delivery: TERM_2
+
+
