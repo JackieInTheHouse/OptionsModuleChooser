@@ -1,9 +1,10 @@
-# JavaFX Final Year Module Chooser GUI - Object Oriented Development Coursework 
+# JavaFX Final Year Module Chooser GUI - MVC pattern
 
 ## Objectives
 
 Design and implement an OO system consisting of a set of Java classes, using advanced libraries within the Java SDK.
 
+* Data models
 * An user interface using JavaFX 8 libraries.
 * Event handling provide a basis for an interactive and user-friendly system.
 * Adhere to standard principles of the Model-View-Controller (MVC) design pattern and appropriately decompose classes through abstraction and encapsulation.
